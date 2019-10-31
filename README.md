@@ -1,7 +1,7 @@
 # 谷歌地图Demo，所有操作需翻墙
 ## 步骤:
 1、 clone代码<br>
-2、<br>
+2、
 ```
 pod install
 ```
